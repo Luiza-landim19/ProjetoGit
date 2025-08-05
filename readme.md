@@ -1,0 +1,1 @@
+esse projeto e para mostrar como usar o GIT
